@@ -255,7 +255,7 @@ body {
 }
 
 .bottom-navigation{
-    top: 92%;    
+    top: 92vh; 
 }
 .indicator{
     font-size: 9px;
